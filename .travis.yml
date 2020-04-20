@@ -4,12 +4,15 @@ language: python
 python:
   - "3.8"
 
+cache: pip
+
 script: 
   - python ./convertlists.py lists.json $HOME/ci/converted/ -vv
   - python ./buildrepo.py $HOME/ci/converted/ $HOME/ci/built/ --downloadbaseurl https://tamersaadeh.github.io/dnsbl-justdomains/ -vv
 
 deploy:
   - provider: pages:git
+    edge: true # needed until dpl v2 is released
     repo: tamersaadeh/dnsbl-justdomains
     commit_message: Updated lists as of $(date +%Y-%m-%d)
     name: JustDomains CI
