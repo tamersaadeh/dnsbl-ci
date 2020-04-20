@@ -20,7 +20,6 @@ deploy:
     target_branch: master
     local_dir: $HOME/ci/built/
     verbose: true
-    script: .ci/deploy.sh $HOME/ci/built/
     on:
       branch: master
 
