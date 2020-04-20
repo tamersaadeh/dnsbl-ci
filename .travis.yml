@@ -4,21 +4,19 @@ language: python
 python:
   - "3.8"
 
-env:
-  global:
-    - DEPLOY_BRANCH="master"
-    - DEPLOY_BASE64_KEY_VAR="JUSTDOMAINS_LISTS_DEPLOY_KEY"
-    - DEPLOY_REPO_SLUG="tamersaadeh/dnsbl-justdomains"
-    - DEPLOY_TARGET_BRANCH="master"
-    - DEPLOY_GIT_NAME="JustDomains CI"
-    - DEPLOY_GIT_EMAIL="justdomains-ci"
-
 script: 
   - python ./convertlists.py lists.json $HOME/ci/converted/ -vv
   - python ./buildrepo.py $HOME/ci/converted/ $HOME/ci/built/ --downloadbaseurl https://tamersaadeh.github.io/dnsbl-justdomains/ -vv
 
 deploy:
-  - provider: script
+  - provider: pages:git
+    repo: tamersaadeh/dnsbl-justdomains
+    commit_message: Updated lists as of $(date +%Y-%m-%d)
+    name: JustDomains CI
+    email: justdomains-ci
+    target_branch: master
+    local_dir: $HOME/ci/built/
+    verbose: true
     script: .ci/deploy.sh $HOME/ci/built/
     on:
       branch: master
