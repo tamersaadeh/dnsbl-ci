@@ -15,7 +15,7 @@ env:
 
 script: 
   - python ./convertlists.py lists.json $HOME/ci/converted/ -vv
-  - python ./buildrepo.py $HOME/ci/converted/ $HOME/ci/built/ # --downloadbaseurl https://justdomains.github.io/blocklists/ -vv
+  - python ./buildrepo.py $HOME/ci/converted/ $HOME/ci/built/ --downloadbaseurl https://tamersaadeh.github.io/dnsbl-justdomains/ -vv
 
 deploy:
   - provider: script
