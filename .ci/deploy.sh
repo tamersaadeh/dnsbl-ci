@@ -115,7 +115,12 @@ fi
 # Commit all changes to the deployment repo
 cd "$TARGET_DIR"
 git config user.name "$DEPLOY_GIT_NAME"
-git config user.email "$DEPLOY_GIT_EMAIL"
+git config user.email "$DEPLOY_GIT_EMAIL"'
+
+# Try to add origin in case this is the first commit
+git remote add origin $SSH_REPO || pass
+
+# Add all files
 git add -A .
 echo "Commit changes with message: '$COMMIT_MESSAGE'"
 git commit --allow-empty -m "$COMMIT_MESSAGE"
