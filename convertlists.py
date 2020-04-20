@@ -504,10 +504,10 @@ with open(args.listsjson) as json_data:
         if 'format' not in filterlist:
             raise ValueError("Missing required 'format' key for list; (string) possible values: \"adbp\", \"hosts\"")
 
-		# if item is disabled, then skip processing it
-		if 'disabled' in filterlist:
-			if filterlist['disabled']:
-				continue;
+        # if item is disabled, then skip processing it
+        if 'disabled' in filterlist:
+            if filterlist['disabled']:
+                continue;
 
         parsedurl = urlparse(filterlist['url'])
 
