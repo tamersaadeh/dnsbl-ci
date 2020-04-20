@@ -1,5 +1,5 @@
 # DOMAIN-ONLY Filter Lists
-**Last Updated:** 2020-04-20 16:23:23
+**Last Updated:** 2020-04-20 17:49:22
 
 - [Details](#details)
 - [Usage](#usage)
@@ -67,60 +67,60 @@ The converted lists are provided in a "Raw Domain List" format that contains onl
 
 | Converted List | License | Domains | Domain List | Last Updated |
 :- | - | - | :-: | - |
-| [EasyList](#easylist-domains-only) | [GPL3 / CC BY-SA 3.0](https://easylist.to/pages/licence.html) | 17435 | [**Download**](https://tamersaadeh.github.io/dnsbl-justdomains/lists/easylist-justdomains.txt) | 20 Apr 2020 14:18 UTC |
-| [EasyPrivacy](#easyprivacy-domains-only) | [GPL3 / CC BY-SA 3.0](https://easylist.to/pages/licence.html) | 6731 | [**Download**](https://tamersaadeh.github.io/dnsbl-justdomains/lists/easyprivacy-justdomains.txt) | 20 Apr 2020 14:18 UTC |
-| [EasyList Cookie](#easylist-cookie-domains-only) | [CC BY 3.0](http://creativecommons.org/licenses/by/3.0/) | 85 | [**Download**](https://tamersaadeh.github.io/dnsbl-justdomains/lists/easylist-cookie-justdomains.txt) | 20 Apr 2020 16:20 UTC |
-| [Fanboy's Social Blocking](#fanboys-social-blocking-domains-only) | [CC BY 3.0](http://creativecommons.org/licenses/by/3.0/) | 108 | [**Download**](https://tamersaadeh.github.io/dnsbl-justdomains/lists/fanboy-social-justdomains.txt) | 20 Apr 2020 14:18 UTC |
-| [Fanboy's Social Blocking](#fanboys-social-blocking-domains-only) | [CC BY 3.0](http://creativecommons.org/licenses/by/3.0/) | 692 | [**Download**](https://tamersaadeh.github.io/dnsbl-justdomains/lists/fanboy-annoyance-justdomains.txt) | 20 Apr 2020 14:18 UTC |
-| [EasyList Germany](#easylist-germany-domains-only) | [GPL3 / CC BY-SA 3.0](https://easylist.to/pages/licence.html) | 564 | [**Download**](https://tamersaadeh.github.io/dnsbl-justdomains/lists/easylistgermany-justdomains.txt) | %timestamp% |
-| [EasyList Italy](#easylist-italy-domains-only) | GPL3 / CC BY-SA 3.0 | 194 | [**Download**](https://tamersaadeh.github.io/dnsbl-justdomains/lists/easylistitaly-justdomains.txt) | 20 Apr 2020 16:21 UTC |
-| [EasyList Dutch](#easylist-dutch-domains-only) | [GPL3 / CC BY-SA 3.0](https://easylist-downloads.adblockplus.org/COPYING) | 79 | [**Download**](https://tamersaadeh.github.io/dnsbl-justdomains/lists/easylistdutch-justdomains.txt) | 20 Apr 2020 16:13 UTC |
-| [EasyList Liste FR](#easylist-liste-fr-domains-only) | CC BY-NC-SA 3.0 | 4920 | [**Download**](https://tamersaadeh.github.io/dnsbl-justdomains/lists/liste_fr-justdomains.txt) |  |
-| [EasyList China](#easylist-china-domains-only) | [GPL3 / CC BY-SA 3.0](https://easylist-downloads.adblockplus.org/COPYING) | 5653 | [**Download**](https://tamersaadeh.github.io/dnsbl-justdomains/lists/easylistchina-justdomains.txt) | 20 Apr 2020 16:13 UTC |
-| [EasyList ABPindo](#easylist-abpindo-domains-only) | [GPL3 / CC BY-SA 3.0](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE) | 523 | [**Download**](https://tamersaadeh.github.io/dnsbl-justdomains/lists/abpindo-justdomains.txt) | 17 Apr 2020 02:13 UTC |
-| [EasyList Liste AR](#easylist-liste-ar-domains-only) | CC BY-NC-SA 3.0 | 73 | [**Download**](https://tamersaadeh.github.io/dnsbl-justdomains/lists/Liste_AR-justdomains.txt) |  |
-| [EasyList Czech and Slovak](#easylist-czech-and-slovak-domains-only) | [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 79 | [**Download**](https://tamersaadeh.github.io/dnsbl-justdomains/lists/filters-justdomains.txt) |  |
-| [EasyList Latvian List](#easylist-latvian-list-domains-only) | [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 50 | [**Download**](https://tamersaadeh.github.io/dnsbl-justdomains/lists/latvian-list-justdomains.txt) | 2020-01-03 18:30 UTC |
-| [EasyList Hebrew](#easylist-hebrew-domains-only) | [GPL3 / CC BY-SA 3.0](https://easylist.to/pages/licence.html) | 129 | [**Download**](https://tamersaadeh.github.io/dnsbl-justdomains/lists/EasyListHebrew-justdomains.txt) | 14 Apr 2020 13:37 UTC |
-| [EasyList Lithuania](#easylist-lithuania-domains-only) | [GPL3](http://www.gnu.org/licenses/gpl-3.0.txt) | 15 | [**Download**](https://tamersaadeh.github.io/dnsbl-justdomains/lists/easylistlithuania-justdomains.txt) |  |
-| [AdGuard Base Filter](#adguard-base-filter-domains-only) | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) | 20277 | [**Download**](https://tamersaadeh.github.io/dnsbl-justdomains/lists/adguard-2-justdomains.txt) |  |
-| [AdGuard Tracking Protection filter](#adguard-tracking-protection-filter-domains-only) | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) | 4859 | [**Download**](https://tamersaadeh.github.io/dnsbl-justdomains/lists/adguard-3-justdomains.txt) |  |
-| [AdGuard Social media filter](#adguard-social-media-filter-domains-only) | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) | 47 | [**Download**](https://tamersaadeh.github.io/dnsbl-justdomains/lists/adguard-4-justdomains.txt) |  |
-| [AdGuard Annoyances filter](#adguard-annoyances-filter-domains-only) | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) | 367 | [**Download**](https://tamersaadeh.github.io/dnsbl-justdomains/lists/adguard-14-justdomains.txt) |  |
-| [AdGuard Russian filter](#adguard-russian-filter-domains-only) | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) | 2542 | [**Download**](https://tamersaadeh.github.io/dnsbl-justdomains/lists/adguard-1-justdomains.txt) |  |
-| [AdGuard German filter](#adguard-german-filter-domains-only) | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) | 593 | [**Download**](https://tamersaadeh.github.io/dnsbl-justdomains/lists/adguard-6-justdomains.txt) |  |
-| [AdGuard French filter](#adguard-french-filter-domains-only) | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) | 4907 | [**Download**](https://tamersaadeh.github.io/dnsbl-justdomains/lists/adguard-16-justdomains.txt) |  |
-| [AdGuard Japanese filter](#adguard-japanese-filter-domains-only) | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) | 251 | [**Download**](https://tamersaadeh.github.io/dnsbl-justdomains/lists/adguard-7-justdomains.txt) |  |
-| [AdGuard Dutch filter](#adguard-dutch-filter-domains-only) | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) | 83 | [**Download**](https://tamersaadeh.github.io/dnsbl-justdomains/lists/adguard-8-justdomains.txt) |  |
-| [AdGuard Spanish/Portuguese filter](#adguard-spanishportuguese-filter-domains-only) | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) | 189 | [**Download**](https://tamersaadeh.github.io/dnsbl-justdomains/lists/adguard-9-justdomains.txt) |  |
-| [AdGuard Turkish filter](#adguard-turkish-filter-domains-only) | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) | 284 | [**Download**](https://tamersaadeh.github.io/dnsbl-justdomains/lists/adguard-13-justdomains.txt) |  |
-| [AdGuard Mobile ads filter](#adguard-mobile-ads-filter-domains-only) | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) | 979 | [**Download**](https://tamersaadeh.github.io/dnsbl-justdomains/lists/adguard-11-justdomains.txt) |  |
-| [AdGuard Simplified Domain Names Filter](#adguard-simplified-domain-names-filter-domains-only) | [GPL3](https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE) | 31035 | [**Download**](https://tamersaadeh.github.io/dnsbl-justdomains/lists/adguard-15-justdomains.txt) | 2020-04-20T14:03:47.020Z |
-| [NoCoin Filter List](#nocoin-filter-list-domains-only) | [MIT](https://github.com/hoshsadiq/adblock-nocoin-list/blob/master/LICENSE) | 688 | [**Download**](https://tamersaadeh.github.io/dnsbl-justdomains/lists/nocoin-justdomains.txt) | 18 Mar 2020 |
+| [EasyList](#easylist-domains-only) | [GPL3 / CC BY-SA 3.0](https://easylist.to/pages/licence.html) | 17436 | [**Download**](https://tamersaadeh.github.io/dnsbl-ci/lists/easylist-justdomains.txt) | 20 Apr 2020 16:42 UTC |
+| [EasyPrivacy](#easyprivacy-domains-only) | [GPL3 / CC BY-SA 3.0](https://easylist.to/pages/licence.html) | 6731 | [**Download**](https://tamersaadeh.github.io/dnsbl-ci/lists/easyprivacy-justdomains.txt) | 20 Apr 2020 16:42 UTC |
+| [EasyList Cookie](#easylist-cookie-domains-only) | [CC BY 3.0](http://creativecommons.org/licenses/by/3.0/) | 85 | [**Download**](https://tamersaadeh.github.io/dnsbl-ci/lists/easylist-cookie-justdomains.txt) | 20 Apr 2020 17:40 UTC |
+| [Fanboy's Social Blocking](#fanboys-social-blocking-domains-only) | [CC BY 3.0](http://creativecommons.org/licenses/by/3.0/) | 108 | [**Download**](https://tamersaadeh.github.io/dnsbl-ci/lists/fanboy-social-justdomains.txt) | 20 Apr 2020 16:42 UTC |
+| [Fanboy's Social Blocking](#fanboys-social-blocking-domains-only) | [CC BY 3.0](http://creativecommons.org/licenses/by/3.0/) | 692 | [**Download**](https://tamersaadeh.github.io/dnsbl-ci/lists/fanboy-annoyance-justdomains.txt) | 20 Apr 2020 16:42 UTC |
+| [EasyList Germany](#easylist-germany-domains-only) | [GPL3 / CC BY-SA 3.0](https://easylist.to/pages/licence.html) | 564 | [**Download**](https://tamersaadeh.github.io/dnsbl-ci/lists/easylistgermany-justdomains.txt) | %timestamp% |
+| [EasyList Italy](#easylist-italy-domains-only) | GPL3 / CC BY-SA 3.0 | 194 | [**Download**](https://tamersaadeh.github.io/dnsbl-ci/lists/easylistitaly-justdomains.txt) | 20 Apr 2020 17:41 UTC |
+| [EasyList Dutch](#easylist-dutch-domains-only) | [GPL3 / CC BY-SA 3.0](https://easylist-downloads.adblockplus.org/COPYING) | 79 | [**Download**](https://tamersaadeh.github.io/dnsbl-ci/lists/easylistdutch-justdomains.txt) | 20 Apr 2020 17:33 UTC |
+| [EasyList Liste FR](#easylist-liste-fr-domains-only) | CC BY-NC-SA 3.0 | 4920 | [**Download**](https://tamersaadeh.github.io/dnsbl-ci/lists/liste_fr-justdomains.txt) |  |
+| [EasyList China](#easylist-china-domains-only) | [GPL3 / CC BY-SA 3.0](https://easylist-downloads.adblockplus.org/COPYING) | 5653 | [**Download**](https://tamersaadeh.github.io/dnsbl-ci/lists/easylistchina-justdomains.txt) | 20 Apr 2020 17:33 UTC |
+| [EasyList ABPindo](#easylist-abpindo-domains-only) | [GPL3 / CC BY-SA 3.0](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE) | 523 | [**Download**](https://tamersaadeh.github.io/dnsbl-ci/lists/abpindo-justdomains.txt) | 17 Apr 2020 02:13 UTC |
+| [EasyList Liste AR](#easylist-liste-ar-domains-only) | CC BY-NC-SA 3.0 | 73 | [**Download**](https://tamersaadeh.github.io/dnsbl-ci/lists/Liste_AR-justdomains.txt) |  |
+| [EasyList Czech and Slovak](#easylist-czech-and-slovak-domains-only) | [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 79 | [**Download**](https://tamersaadeh.github.io/dnsbl-ci/lists/filters-justdomains.txt) |  |
+| [EasyList Latvian List](#easylist-latvian-list-domains-only) | [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 50 | [**Download**](https://tamersaadeh.github.io/dnsbl-ci/lists/latvian-list-justdomains.txt) | 2020-01-03 18:30 UTC |
+| [EasyList Hebrew](#easylist-hebrew-domains-only) | [GPL3 / CC BY-SA 3.0](https://easylist.to/pages/licence.html) | 129 | [**Download**](https://tamersaadeh.github.io/dnsbl-ci/lists/EasyListHebrew-justdomains.txt) | 14 Apr 2020 13:37 UTC |
+| [EasyList Lithuania](#easylist-lithuania-domains-only) | [GPL3](http://www.gnu.org/licenses/gpl-3.0.txt) | 15 | [**Download**](https://tamersaadeh.github.io/dnsbl-ci/lists/easylistlithuania-justdomains.txt) |  |
+| [AdGuard Base Filter](#adguard-base-filter-domains-only) | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) | 20278 | [**Download**](https://tamersaadeh.github.io/dnsbl-ci/lists/adguard-2-justdomains.txt) |  |
+| [AdGuard Tracking Protection filter](#adguard-tracking-protection-filter-domains-only) | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) | 4859 | [**Download**](https://tamersaadeh.github.io/dnsbl-ci/lists/adguard-3-justdomains.txt) |  |
+| [AdGuard Social media filter](#adguard-social-media-filter-domains-only) | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) | 47 | [**Download**](https://tamersaadeh.github.io/dnsbl-ci/lists/adguard-4-justdomains.txt) |  |
+| [AdGuard Annoyances filter](#adguard-annoyances-filter-domains-only) | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) | 367 | [**Download**](https://tamersaadeh.github.io/dnsbl-ci/lists/adguard-14-justdomains.txt) |  |
+| [AdGuard Russian filter](#adguard-russian-filter-domains-only) | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) | 2542 | [**Download**](https://tamersaadeh.github.io/dnsbl-ci/lists/adguard-1-justdomains.txt) |  |
+| [AdGuard German filter](#adguard-german-filter-domains-only) | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) | 593 | [**Download**](https://tamersaadeh.github.io/dnsbl-ci/lists/adguard-6-justdomains.txt) |  |
+| [AdGuard French filter](#adguard-french-filter-domains-only) | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) | 4907 | [**Download**](https://tamersaadeh.github.io/dnsbl-ci/lists/adguard-16-justdomains.txt) |  |
+| [AdGuard Japanese filter](#adguard-japanese-filter-domains-only) | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) | 251 | [**Download**](https://tamersaadeh.github.io/dnsbl-ci/lists/adguard-7-justdomains.txt) |  |
+| [AdGuard Dutch filter](#adguard-dutch-filter-domains-only) | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) | 83 | [**Download**](https://tamersaadeh.github.io/dnsbl-ci/lists/adguard-8-justdomains.txt) |  |
+| [AdGuard Spanish/Portuguese filter](#adguard-spanishportuguese-filter-domains-only) | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) | 189 | [**Download**](https://tamersaadeh.github.io/dnsbl-ci/lists/adguard-9-justdomains.txt) |  |
+| [AdGuard Turkish filter](#adguard-turkish-filter-domains-only) | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) | 284 | [**Download**](https://tamersaadeh.github.io/dnsbl-ci/lists/adguard-13-justdomains.txt) |  |
+| [AdGuard Mobile ads filter](#adguard-mobile-ads-filter-domains-only) | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) | 979 | [**Download**](https://tamersaadeh.github.io/dnsbl-ci/lists/adguard-11-justdomains.txt) |  |
+| [AdGuard Simplified Domain Names Filter](#adguard-simplified-domain-names-filter-domains-only) | [GPL3](https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE) | 35939 | [**Download**](https://tamersaadeh.github.io/dnsbl-ci/lists/adguard-15-justdomains.txt) | 2020-04-20T17:08:58.800Z |
+| [NoCoin Filter List](#nocoin-filter-list-domains-only) | [MIT](https://github.com/hoshsadiq/adblock-nocoin-list/blob/master/LICENSE) | 688 | [**Download**](https://tamersaadeh.github.io/dnsbl-ci/lists/nocoin-justdomains.txt) | 18 Mar 2020 |
 
 &nbsp;
 
 ## EasyList (Domains-only)
 | Format | Raw Download Link |
 | --- | --- |
-| Raw Domain List | [easylist-justdomains.txt](https://tamersaadeh.github.io/dnsbl-justdomains/lists/easylist-justdomains.txt) |
-| Pi-Hole | [easylist-justdomains.txt](https://tamersaadeh.github.io/dnsbl-justdomains/lists/easylist-justdomains.txt) |
+| Raw Domain List | [easylist-justdomains.txt](https://tamersaadeh.github.io/dnsbl-ci/lists/easylist-justdomains.txt) |
+| Pi-Hole | [easylist-justdomains.txt](https://tamersaadeh.github.io/dnsbl-ci/lists/easylist-justdomains.txt) |
 
 **Source:** [https://easylist.to/easylist/easylist.txt](https://easylist.to/easylist/easylist.txt)
 - Title: EasyList
-- Version: 202004201418
-- Last Modified: 20 Apr 2020 14:18 UTC
+- Version: 202004201642
+- Last Modified: 20 Apr 2020 16:42 UTC
 - Homepage: [https://easylist.to/](https://easylist.to/)
 
 **Conversion Details:**
 ```
-Total Lines Processed: 68220
+Total Lines Processed: 68221
 Comment Lines: 434
 Empty Lines: 0
 Non-Domain-only Rules Excluded: 48426
 Domain-only Rules Excluded (unsupported options): 1861
 Domain-only Rules Excluded (exception conflict): 64
-Domain-only Rules Output: 17435
+Domain-only Rules Output: 17436
 ```
 
 &nbsp;
@@ -128,13 +128,13 @@ Domain-only Rules Output: 17435
 ## EasyPrivacy (Domains-only)
 | Format | Raw Download Link |
 | --- | --- |
-| Raw Domain List | [easyprivacy-justdomains.txt](https://tamersaadeh.github.io/dnsbl-justdomains/lists/easyprivacy-justdomains.txt) |
-| Pi-Hole | [easyprivacy-justdomains.txt](https://tamersaadeh.github.io/dnsbl-justdomains/lists/easyprivacy-justdomains.txt) |
+| Raw Domain List | [easyprivacy-justdomains.txt](https://tamersaadeh.github.io/dnsbl-ci/lists/easyprivacy-justdomains.txt) |
+| Pi-Hole | [easyprivacy-justdomains.txt](https://tamersaadeh.github.io/dnsbl-ci/lists/easyprivacy-justdomains.txt) |
 
 **Source:** [https://easylist.to/easylist/easyprivacy.txt](https://easylist.to/easylist/easyprivacy.txt)
 - Title: EasyPrivacy
-- Version: 202004201418
-- Last Modified: 20 Apr 2020 14:18 UTC
+- Version: 202004201642
+- Last Modified: 20 Apr 2020 16:42 UTC
 - Homepage: [https://easylist.to/](https://easylist.to/)
 
 **Conversion Details:**
@@ -153,13 +153,13 @@ Domain-only Rules Output: 6731
 ## EasyList Cookie (Domains-only)
 | Format | Raw Download Link |
 | --- | --- |
-| Raw Domain List | [easylist-cookie-justdomains.txt](https://tamersaadeh.github.io/dnsbl-justdomains/lists/easylist-cookie-justdomains.txt) |
-| Pi-Hole | [easylist-cookie-justdomains.txt](https://tamersaadeh.github.io/dnsbl-justdomains/lists/easylist-cookie-justdomains.txt) |
+| Raw Domain List | [easylist-cookie-justdomains.txt](https://tamersaadeh.github.io/dnsbl-ci/lists/easylist-cookie-justdomains.txt) |
+| Pi-Hole | [easylist-cookie-justdomains.txt](https://tamersaadeh.github.io/dnsbl-ci/lists/easylist-cookie-justdomains.txt) |
 
 **Source:** [https://easylist-downloads.adblockplus.org/easylist-cookie.txt](https://easylist-downloads.adblockplus.org/easylist-cookie.txt)
 - Title: EasyList Cookie List
-- Version: 202004201620
-- Last Modified: 20 Apr 2020 16:20 UTC
+- Version: 202004201740
+- Last Modified: 20 Apr 2020 17:40 UTC
 - Homepage: [https://easylist.to/](https://easylist.to/)
 
 **Conversion Details:**
@@ -178,13 +178,13 @@ Domain-only Rules Output: 85
 ## Fanboy's Social Blocking (Domains-only)
 | Format | Raw Download Link |
 | --- | --- |
-| Raw Domain List | [fanboy-social-justdomains.txt](https://tamersaadeh.github.io/dnsbl-justdomains/lists/fanboy-social-justdomains.txt) |
-| Pi-Hole | [fanboy-social-justdomains.txt](https://tamersaadeh.github.io/dnsbl-justdomains/lists/fanboy-social-justdomains.txt) |
+| Raw Domain List | [fanboy-social-justdomains.txt](https://tamersaadeh.github.io/dnsbl-ci/lists/fanboy-social-justdomains.txt) |
+| Pi-Hole | [fanboy-social-justdomains.txt](https://tamersaadeh.github.io/dnsbl-ci/lists/fanboy-social-justdomains.txt) |
 
 **Source:** [https://easylist.to/easylist/fanboy-social.txt](https://easylist.to/easylist/fanboy-social.txt)
 - Title: Fanboy's Social Blocking List
-- Version: 202004201418
-- Last Modified: 20 Apr 2020 14:18 UTC
+- Version: 202004201642
+- Last Modified: 20 Apr 2020 16:42 UTC
 - Homepage: [https://easylist.to/](https://easylist.to/)
 
 **Conversion Details:**
@@ -203,13 +203,13 @@ Domain-only Rules Output: 108
 ## Fanboy's Social Blocking (Domains-only)
 | Format | Raw Download Link |
 | --- | --- |
-| Raw Domain List | [fanboy-annoyance-justdomains.txt](https://tamersaadeh.github.io/dnsbl-justdomains/lists/fanboy-annoyance-justdomains.txt) |
-| Pi-Hole | [fanboy-annoyance-justdomains.txt](https://tamersaadeh.github.io/dnsbl-justdomains/lists/fanboy-annoyance-justdomains.txt) |
+| Raw Domain List | [fanboy-annoyance-justdomains.txt](https://tamersaadeh.github.io/dnsbl-ci/lists/fanboy-annoyance-justdomains.txt) |
+| Pi-Hole | [fanboy-annoyance-justdomains.txt](https://tamersaadeh.github.io/dnsbl-ci/lists/fanboy-annoyance-justdomains.txt) |
 
 **Source:** [https://easylist.to/easylist/fanboy-annoyance.txt](https://easylist.to/easylist/fanboy-annoyance.txt)
 - Title: Fanboy's Annoyance List
-- Version: 202004201418
-- Last Modified: 20 Apr 2020 14:18 UTC
+- Version: 202004201642
+- Last Modified: 20 Apr 2020 16:42 UTC
 - Homepage: [https://easylist.to/](https://easylist.to/)
 
 **Conversion Details:**
@@ -228,8 +228,8 @@ Domain-only Rules Output: 692
 ## EasyList Germany (Domains-only)
 | Format | Raw Download Link |
 | --- | --- |
-| Raw Domain List | [easylistgermany-justdomains.txt](https://tamersaadeh.github.io/dnsbl-justdomains/lists/easylistgermany-justdomains.txt) |
-| Pi-Hole | [easylistgermany-justdomains.txt](https://tamersaadeh.github.io/dnsbl-justdomains/lists/easylistgermany-justdomains.txt) |
+| Raw Domain List | [easylistgermany-justdomains.txt](https://tamersaadeh.github.io/dnsbl-ci/lists/easylistgermany-justdomains.txt) |
+| Pi-Hole | [easylistgermany-justdomains.txt](https://tamersaadeh.github.io/dnsbl-ci/lists/easylistgermany-justdomains.txt) |
 
 **Source:** [https://easylist.to/easylistgermany/easylistgermany.txt](https://easylist.to/easylistgermany/easylistgermany.txt)
 - Title: EasyList Germany
@@ -253,13 +253,13 @@ Domain-only Rules Output: 564
 ## EasyList Italy (Domains-only)
 | Format | Raw Download Link |
 | --- | --- |
-| Raw Domain List | [easylistitaly-justdomains.txt](https://tamersaadeh.github.io/dnsbl-justdomains/lists/easylistitaly-justdomains.txt) |
-| Pi-Hole | [easylistitaly-justdomains.txt](https://tamersaadeh.github.io/dnsbl-justdomains/lists/easylistitaly-justdomains.txt) |
+| Raw Domain List | [easylistitaly-justdomains.txt](https://tamersaadeh.github.io/dnsbl-ci/lists/easylistitaly-justdomains.txt) |
+| Pi-Hole | [easylistitaly-justdomains.txt](https://tamersaadeh.github.io/dnsbl-ci/lists/easylistitaly-justdomains.txt) |
 
 **Source:** [https://easylist-downloads.adblockplus.org/easylistitaly.txt](https://easylist-downloads.adblockplus.org/easylistitaly.txt)
 - Title: EasyList Italy
-- Version: 202004201621
-- Last Modified: 20 Apr 2020 16:21 UTC
+- Version: 202004201741
+- Last Modified: 20 Apr 2020 17:41 UTC
 - Homepage: [https://easylist.to/](https://easylist.to/)
 
 **Conversion Details:**
@@ -278,13 +278,13 @@ Domain-only Rules Output: 194
 ## EasyList Dutch (Domains-only)
 | Format | Raw Download Link |
 | --- | --- |
-| Raw Domain List | [easylistdutch-justdomains.txt](https://tamersaadeh.github.io/dnsbl-justdomains/lists/easylistdutch-justdomains.txt) |
-| Pi-Hole | [easylistdutch-justdomains.txt](https://tamersaadeh.github.io/dnsbl-justdomains/lists/easylistdutch-justdomains.txt) |
+| Raw Domain List | [easylistdutch-justdomains.txt](https://tamersaadeh.github.io/dnsbl-ci/lists/easylistdutch-justdomains.txt) |
+| Pi-Hole | [easylistdutch-justdomains.txt](https://tamersaadeh.github.io/dnsbl-ci/lists/easylistdutch-justdomains.txt) |
 
 **Source:** [https://easylist-downloads.adblockplus.org/easylistdutch.txt](https://easylist-downloads.adblockplus.org/easylistdutch.txt)
 - Title: EasyList Dutch
-- Version: 202004201613
-- Last Modified: 20 Apr 2020 16:13 UTC
+- Version: 202004201733
+- Last Modified: 20 Apr 2020 17:33 UTC
 - Homepage: [https://easylist.adblockplus.org/](https://easylist.adblockplus.org/)
 
 **Conversion Details:**
@@ -303,12 +303,12 @@ Domain-only Rules Output: 79
 ## EasyList Liste FR (Domains-only)
 | Format | Raw Download Link |
 | --- | --- |
-| Raw Domain List | [liste_fr-justdomains.txt](https://tamersaadeh.github.io/dnsbl-justdomains/lists/liste_fr-justdomains.txt) |
-| Pi-Hole | [liste_fr-justdomains.txt](https://tamersaadeh.github.io/dnsbl-justdomains/lists/liste_fr-justdomains.txt) |
+| Raw Domain List | [liste_fr-justdomains.txt](https://tamersaadeh.github.io/dnsbl-ci/lists/liste_fr-justdomains.txt) |
+| Pi-Hole | [liste_fr-justdomains.txt](https://tamersaadeh.github.io/dnsbl-ci/lists/liste_fr-justdomains.txt) |
 
 **Source:** [https://easylist-downloads.adblockplus.org/liste_fr.txt](https://easylist-downloads.adblockplus.org/liste_fr.txt)
 - Title: Liste FR
-- Version: 202004201613
+- Version: 202004201733
 - Homepage: [https://forums.lanik.us/viewforum.php?f=91](https://forums.lanik.us/viewforum.php?f=91)
 
 **Conversion Details:**
@@ -327,13 +327,13 @@ Domain-only Rules Output: 4920
 ## EasyList China (Domains-only)
 | Format | Raw Download Link |
 | --- | --- |
-| Raw Domain List | [easylistchina-justdomains.txt](https://tamersaadeh.github.io/dnsbl-justdomains/lists/easylistchina-justdomains.txt) |
-| Pi-Hole | [easylistchina-justdomains.txt](https://tamersaadeh.github.io/dnsbl-justdomains/lists/easylistchina-justdomains.txt) |
+| Raw Domain List | [easylistchina-justdomains.txt](https://tamersaadeh.github.io/dnsbl-ci/lists/easylistchina-justdomains.txt) |
+| Pi-Hole | [easylistchina-justdomains.txt](https://tamersaadeh.github.io/dnsbl-ci/lists/easylistchina-justdomains.txt) |
 
 **Source:** [https://easylist-downloads.adblockplus.org/easylistchina.txt](https://easylist-downloads.adblockplus.org/easylistchina.txt)
 - Title: EasyList China
-- Version: 202004201613
-- Last Modified: 20 Apr 2020 16:13 UTC
+- Version: 202004201733
+- Last Modified: 20 Apr 2020 17:33 UTC
 - Homepage: [http://abpchina.org/forum/](http://abpchina.org/forum/)
 
 **Conversion Details:**
@@ -352,8 +352,8 @@ Domain-only Rules Output: 5653
 ## EasyList ABPindo (Domains-only)
 | Format | Raw Download Link |
 | --- | --- |
-| Raw Domain List | [abpindo-justdomains.txt](https://tamersaadeh.github.io/dnsbl-justdomains/lists/abpindo-justdomains.txt) |
-| Pi-Hole | [abpindo-justdomains.txt](https://tamersaadeh.github.io/dnsbl-justdomains/lists/abpindo-justdomains.txt) |
+| Raw Domain List | [abpindo-justdomains.txt](https://tamersaadeh.github.io/dnsbl-ci/lists/abpindo-justdomains.txt) |
+| Pi-Hole | [abpindo-justdomains.txt](https://tamersaadeh.github.io/dnsbl-ci/lists/abpindo-justdomains.txt) |
 
 **Source:** [https://raw.githubusercontent.com/heradhis/indonesianadblockrules/master/subscriptions/abpindo.txt](https://raw.githubusercontent.com/heradhis/indonesianadblockrules/master/subscriptions/abpindo.txt)
 - Title: ABPindo
@@ -377,12 +377,12 @@ Domain-only Rules Output: 523
 ## EasyList Liste AR (Domains-only)
 | Format | Raw Download Link |
 | --- | --- |
-| Raw Domain List | [Liste_AR-justdomains.txt](https://tamersaadeh.github.io/dnsbl-justdomains/lists/Liste_AR-justdomains.txt) |
-| Pi-Hole | [Liste_AR-justdomains.txt](https://tamersaadeh.github.io/dnsbl-justdomains/lists/Liste_AR-justdomains.txt) |
+| Raw Domain List | [Liste_AR-justdomains.txt](https://tamersaadeh.github.io/dnsbl-ci/lists/Liste_AR-justdomains.txt) |
+| Pi-Hole | [Liste_AR-justdomains.txt](https://tamersaadeh.github.io/dnsbl-ci/lists/Liste_AR-justdomains.txt) |
 
 **Source:** [https://easylist-downloads.adblockplus.org/Liste_AR.txt](https://easylist-downloads.adblockplus.org/Liste_AR.txt)
 - Title: Liste AR
-- Version: 202004201620
+- Version: 202004201740
 - Homepage: [http://code.google.com/p/liste-ar-adblock/](http://code.google.com/p/liste-ar-adblock/)
 
 **Conversion Details:**
@@ -401,8 +401,8 @@ Domain-only Rules Output: 73
 ## EasyList Czech and Slovak (Domains-only)
 | Format | Raw Download Link |
 | --- | --- |
-| Raw Domain List | [filters-justdomains.txt](https://tamersaadeh.github.io/dnsbl-justdomains/lists/filters-justdomains.txt) |
-| Pi-Hole | [filters-justdomains.txt](https://tamersaadeh.github.io/dnsbl-justdomains/lists/filters-justdomains.txt) |
+| Raw Domain List | [filters-justdomains.txt](https://tamersaadeh.github.io/dnsbl-ci/lists/filters-justdomains.txt) |
+| Pi-Hole | [filters-justdomains.txt](https://tamersaadeh.github.io/dnsbl-ci/lists/filters-justdomains.txt) |
 
 **Source:** [https://raw.githubusercontent.com/tomasko126/easylistczechandslovak/master/filters.txt](https://raw.githubusercontent.com/tomasko126/easylistczechandslovak/master/filters.txt)
 - Title: Easylist Czech and Slovak filter list
@@ -424,8 +424,8 @@ Domain-only Rules Output: 79
 ## EasyList Latvian List (Domains-only)
 | Format | Raw Download Link |
 | --- | --- |
-| Raw Domain List | [latvian-list-justdomains.txt](https://tamersaadeh.github.io/dnsbl-justdomains/lists/latvian-list-justdomains.txt) |
-| Pi-Hole | [latvian-list-justdomains.txt](https://tamersaadeh.github.io/dnsbl-justdomains/lists/latvian-list-justdomains.txt) |
+| Raw Domain List | [latvian-list-justdomains.txt](https://tamersaadeh.github.io/dnsbl-ci/lists/latvian-list-justdomains.txt) |
+| Pi-Hole | [latvian-list-justdomains.txt](https://tamersaadeh.github.io/dnsbl-ci/lists/latvian-list-justdomains.txt) |
 
 **Source:** [https://notabug.org/latvian-list/adblock-latvian/raw/master/lists/latvian-list.txt](https://notabug.org/latvian-list/adblock-latvian/raw/master/lists/latvian-list.txt)
 - Title: Latvian List
@@ -449,8 +449,8 @@ Domain-only Rules Output: 50
 ## EasyList Hebrew (Domains-only)
 | Format | Raw Download Link |
 | --- | --- |
-| Raw Domain List | [EasyListHebrew-justdomains.txt](https://tamersaadeh.github.io/dnsbl-justdomains/lists/EasyListHebrew-justdomains.txt) |
-| Pi-Hole | [EasyListHebrew-justdomains.txt](https://tamersaadeh.github.io/dnsbl-justdomains/lists/EasyListHebrew-justdomains.txt) |
+| Raw Domain List | [EasyListHebrew-justdomains.txt](https://tamersaadeh.github.io/dnsbl-ci/lists/EasyListHebrew-justdomains.txt) |
+| Pi-Hole | [EasyListHebrew-justdomains.txt](https://tamersaadeh.github.io/dnsbl-ci/lists/EasyListHebrew-justdomains.txt) |
 
 **Source:** [https://raw.githubusercontent.com/easylist/EasyListHebrew/master/EasyListHebrew.txt](https://raw.githubusercontent.com/easylist/EasyListHebrew/master/EasyListHebrew.txt)
 - Title: EasyList Hebrew
@@ -473,8 +473,8 @@ Domain-only Rules Output: 129
 ## EasyList Lithuania (Domains-only)
 | Format | Raw Download Link |
 | --- | --- |
-| Raw Domain List | [easylistlithuania-justdomains.txt](https://tamersaadeh.github.io/dnsbl-justdomains/lists/easylistlithuania-justdomains.txt) |
-| Pi-Hole | [easylistlithuania-justdomains.txt](https://tamersaadeh.github.io/dnsbl-justdomains/lists/easylistlithuania-justdomains.txt) |
+| Raw Domain List | [easylistlithuania-justdomains.txt](https://tamersaadeh.github.io/dnsbl-ci/lists/easylistlithuania-justdomains.txt) |
+| Pi-Hole | [easylistlithuania-justdomains.txt](https://tamersaadeh.github.io/dnsbl-ci/lists/easylistlithuania-justdomains.txt) |
 
 **Source:** [http://margevicius.lt/easylistlithuania.txt](http://margevicius.lt/easylistlithuania.txt)
 - Title: EasyList Lithuania
@@ -496,23 +496,23 @@ Domain-only Rules Output: 15
 ## AdGuard Base Filter (Domains-only)
 | Format | Raw Download Link |
 | --- | --- |
-| Raw Domain List | [adguard-2-justdomains.txt](https://tamersaadeh.github.io/dnsbl-justdomains/lists/adguard-2-justdomains.txt) |
-| Pi-Hole | [adguard-2-justdomains.txt](https://tamersaadeh.github.io/dnsbl-justdomains/lists/adguard-2-justdomains.txt) |
+| Raw Domain List | [adguard-2-justdomains.txt](https://tamersaadeh.github.io/dnsbl-ci/lists/adguard-2-justdomains.txt) |
+| Pi-Hole | [adguard-2-justdomains.txt](https://tamersaadeh.github.io/dnsbl-ci/lists/adguard-2-justdomains.txt) |
 
 **Source:** [https://filters.adtidy.org/extension/chromium/filters/2.txt](https://filters.adtidy.org/extension/chromium/filters/2.txt)
 - Title: AdGuard Base filter
-- Version: 2.1.15.56
+- Version: 2.1.15.58
 - Homepage: [http://adguard.com/filters.html#english](http://adguard.com/filters.html#english)
 
 **Conversion Details:**
 ```
-Total Lines Processed: 103862
+Total Lines Processed: 103863
 Comment Lines: 9708
 Empty Lines: 0
 Non-Domain-only Rules Excluded: 71425
 Domain-only Rules Excluded (unsupported options): 2234
 Domain-only Rules Excluded (exception conflict): 218
-Domain-only Rules Output: 20277
+Domain-only Rules Output: 20278
 ```
 
 &nbsp;
@@ -520,8 +520,8 @@ Domain-only Rules Output: 20277
 ## AdGuard Tracking Protection filter (Domains-only)
 | Format | Raw Download Link |
 | --- | --- |
-| Raw Domain List | [adguard-3-justdomains.txt](https://tamersaadeh.github.io/dnsbl-justdomains/lists/adguard-3-justdomains.txt) |
-| Pi-Hole | [adguard-3-justdomains.txt](https://tamersaadeh.github.io/dnsbl-justdomains/lists/adguard-3-justdomains.txt) |
+| Raw Domain List | [adguard-3-justdomains.txt](https://tamersaadeh.github.io/dnsbl-ci/lists/adguard-3-justdomains.txt) |
+| Pi-Hole | [adguard-3-justdomains.txt](https://tamersaadeh.github.io/dnsbl-ci/lists/adguard-3-justdomains.txt) |
 
 **Source:** [https://filters.adtidy.org/extension/chromium/filters/3.txt](https://filters.adtidy.org/extension/chromium/filters/3.txt)
 - Title: AdGuard Tracking Protection filter
@@ -544,8 +544,8 @@ Domain-only Rules Output: 4859
 ## AdGuard Social media filter (Domains-only)
 | Format | Raw Download Link |
 | --- | --- |
-| Raw Domain List | [adguard-4-justdomains.txt](https://tamersaadeh.github.io/dnsbl-justdomains/lists/adguard-4-justdomains.txt) |
-| Pi-Hole | [adguard-4-justdomains.txt](https://tamersaadeh.github.io/dnsbl-justdomains/lists/adguard-4-justdomains.txt) |
+| Raw Domain List | [adguard-4-justdomains.txt](https://tamersaadeh.github.io/dnsbl-ci/lists/adguard-4-justdomains.txt) |
+| Pi-Hole | [adguard-4-justdomains.txt](https://tamersaadeh.github.io/dnsbl-ci/lists/adguard-4-justdomains.txt) |
 
 **Source:** [https://filters.adtidy.org/extension/chromium/filters/4.txt](https://filters.adtidy.org/extension/chromium/filters/4.txt)
 - Title: AdGuard Social Media filter
@@ -568,12 +568,12 @@ Domain-only Rules Output: 47
 ## AdGuard Annoyances filter (Domains-only)
 | Format | Raw Download Link |
 | --- | --- |
-| Raw Domain List | [adguard-14-justdomains.txt](https://tamersaadeh.github.io/dnsbl-justdomains/lists/adguard-14-justdomains.txt) |
-| Pi-Hole | [adguard-14-justdomains.txt](https://tamersaadeh.github.io/dnsbl-justdomains/lists/adguard-14-justdomains.txt) |
+| Raw Domain List | [adguard-14-justdomains.txt](https://tamersaadeh.github.io/dnsbl-ci/lists/adguard-14-justdomains.txt) |
+| Pi-Hole | [adguard-14-justdomains.txt](https://tamersaadeh.github.io/dnsbl-ci/lists/adguard-14-justdomains.txt) |
 
 **Source:** [https://filters.adtidy.org/extension/chromium/filters/14.txt](https://filters.adtidy.org/extension/chromium/filters/14.txt)
 - Title: AdGuard Annoyances filter
-- Version: 2.0.46.21
+- Version: 2.0.46.22
 - Homepage: [http://adguard.com/filters.html#annoyances](http://adguard.com/filters.html#annoyances)
 
 **Conversion Details:**
@@ -592,20 +592,20 @@ Domain-only Rules Output: 367
 ## AdGuard Russian filter (Domains-only)
 | Format | Raw Download Link |
 | --- | --- |
-| Raw Domain List | [adguard-1-justdomains.txt](https://tamersaadeh.github.io/dnsbl-justdomains/lists/adguard-1-justdomains.txt) |
-| Pi-Hole | [adguard-1-justdomains.txt](https://tamersaadeh.github.io/dnsbl-justdomains/lists/adguard-1-justdomains.txt) |
+| Raw Domain List | [adguard-1-justdomains.txt](https://tamersaadeh.github.io/dnsbl-ci/lists/adguard-1-justdomains.txt) |
+| Pi-Hole | [adguard-1-justdomains.txt](https://tamersaadeh.github.io/dnsbl-ci/lists/adguard-1-justdomains.txt) |
 
 **Source:** [https://filters.adtidy.org/extension/chromium/filters/1.txt](https://filters.adtidy.org/extension/chromium/filters/1.txt)
 - Title: AdGuard Russian filter
-- Version: 2.0.33.20
+- Version: 2.0.33.21
 - Homepage: [http://adguard.com/filters.html#russian](http://adguard.com/filters.html#russian)
 
 **Conversion Details:**
 ```
-Total Lines Processed: 20760
-Comment Lines: 2726
+Total Lines Processed: 20765
+Comment Lines: 2727
 Empty Lines: 0
-Non-Domain-only Rules Excluded: 13959
+Non-Domain-only Rules Excluded: 13963
 Domain-only Rules Excluded (unsupported options): 222
 Domain-only Rules Excluded (exception conflict): 1311
 Domain-only Rules Output: 2542
@@ -616,8 +616,8 @@ Domain-only Rules Output: 2542
 ## AdGuard German filter (Domains-only)
 | Format | Raw Download Link |
 | --- | --- |
-| Raw Domain List | [adguard-6-justdomains.txt](https://tamersaadeh.github.io/dnsbl-justdomains/lists/adguard-6-justdomains.txt) |
-| Pi-Hole | [adguard-6-justdomains.txt](https://tamersaadeh.github.io/dnsbl-justdomains/lists/adguard-6-justdomains.txt) |
+| Raw Domain List | [adguard-6-justdomains.txt](https://tamersaadeh.github.io/dnsbl-ci/lists/adguard-6-justdomains.txt) |
+| Pi-Hole | [adguard-6-justdomains.txt](https://tamersaadeh.github.io/dnsbl-ci/lists/adguard-6-justdomains.txt) |
 
 **Source:** [https://filters.adtidy.org/extension/chromium/filters/6.txt](https://filters.adtidy.org/extension/chromium/filters/6.txt)
 - Title: AdGuard German filter
@@ -640,20 +640,20 @@ Domain-only Rules Output: 593
 ## AdGuard French filter (Domains-only)
 | Format | Raw Download Link |
 | --- | --- |
-| Raw Domain List | [adguard-16-justdomains.txt](https://tamersaadeh.github.io/dnsbl-justdomains/lists/adguard-16-justdomains.txt) |
-| Pi-Hole | [adguard-16-justdomains.txt](https://tamersaadeh.github.io/dnsbl-justdomains/lists/adguard-16-justdomains.txt) |
+| Raw Domain List | [adguard-16-justdomains.txt](https://tamersaadeh.github.io/dnsbl-ci/lists/adguard-16-justdomains.txt) |
+| Pi-Hole | [adguard-16-justdomains.txt](https://tamersaadeh.github.io/dnsbl-ci/lists/adguard-16-justdomains.txt) |
 
 **Source:** [https://filters.adtidy.org/extension/chromium/filters/16.txt](https://filters.adtidy.org/extension/chromium/filters/16.txt)
 - Title: AdGuard French filter
-- Version: 2.0.21.65
+- Version: 2.0.21.66
 - Homepage: [http://adguard.com/filters.html#french](http://adguard.com/filters.html#french)
 
 **Conversion Details:**
 ```
-Total Lines Processed: 19922
-Comment Lines: 490
+Total Lines Processed: 19924
+Comment Lines: 491
 Empty Lines: 0
-Non-Domain-only Rules Excluded: 13070
+Non-Domain-only Rules Excluded: 13071
 Domain-only Rules Excluded (unsupported options): 1439
 Domain-only Rules Excluded (exception conflict): 16
 Domain-only Rules Output: 4907
@@ -664,8 +664,8 @@ Domain-only Rules Output: 4907
 ## AdGuard Japanese filter (Domains-only)
 | Format | Raw Download Link |
 | --- | --- |
-| Raw Domain List | [adguard-7-justdomains.txt](https://tamersaadeh.github.io/dnsbl-justdomains/lists/adguard-7-justdomains.txt) |
-| Pi-Hole | [adguard-7-justdomains.txt](https://tamersaadeh.github.io/dnsbl-justdomains/lists/adguard-7-justdomains.txt) |
+| Raw Domain List | [adguard-7-justdomains.txt](https://tamersaadeh.github.io/dnsbl-ci/lists/adguard-7-justdomains.txt) |
+| Pi-Hole | [adguard-7-justdomains.txt](https://tamersaadeh.github.io/dnsbl-ci/lists/adguard-7-justdomains.txt) |
 
 **Source:** [https://filters.adtidy.org/extension/chromium/filters/7.txt](https://filters.adtidy.org/extension/chromium/filters/7.txt)
 - Title: AdGuard Japanese filter
@@ -688,8 +688,8 @@ Domain-only Rules Output: 251
 ## AdGuard Dutch filter (Domains-only)
 | Format | Raw Download Link |
 | --- | --- |
-| Raw Domain List | [adguard-8-justdomains.txt](https://tamersaadeh.github.io/dnsbl-justdomains/lists/adguard-8-justdomains.txt) |
-| Pi-Hole | [adguard-8-justdomains.txt](https://tamersaadeh.github.io/dnsbl-justdomains/lists/adguard-8-justdomains.txt) |
+| Raw Domain List | [adguard-8-justdomains.txt](https://tamersaadeh.github.io/dnsbl-ci/lists/adguard-8-justdomains.txt) |
+| Pi-Hole | [adguard-8-justdomains.txt](https://tamersaadeh.github.io/dnsbl-ci/lists/adguard-8-justdomains.txt) |
 
 **Source:** [https://filters.adtidy.org/extension/chromium/filters/8.txt](https://filters.adtidy.org/extension/chromium/filters/8.txt)
 - Title: AdGuard Dutch filter
@@ -712,8 +712,8 @@ Domain-only Rules Output: 83
 ## AdGuard Spanish/Portuguese filter (Domains-only)
 | Format | Raw Download Link |
 | --- | --- |
-| Raw Domain List | [adguard-9-justdomains.txt](https://tamersaadeh.github.io/dnsbl-justdomains/lists/adguard-9-justdomains.txt) |
-| Pi-Hole | [adguard-9-justdomains.txt](https://tamersaadeh.github.io/dnsbl-justdomains/lists/adguard-9-justdomains.txt) |
+| Raw Domain List | [adguard-9-justdomains.txt](https://tamersaadeh.github.io/dnsbl-ci/lists/adguard-9-justdomains.txt) |
+| Pi-Hole | [adguard-9-justdomains.txt](https://tamersaadeh.github.io/dnsbl-ci/lists/adguard-9-justdomains.txt) |
 
 **Source:** [https://filters.adtidy.org/extension/chromium/filters/9.txt](https://filters.adtidy.org/extension/chromium/filters/9.txt)
 - Title: AdGuard Spanish/Portuguese filter
@@ -736,8 +736,8 @@ Domain-only Rules Output: 189
 ## AdGuard Turkish filter (Domains-only)
 | Format | Raw Download Link |
 | --- | --- |
-| Raw Domain List | [adguard-13-justdomains.txt](https://tamersaadeh.github.io/dnsbl-justdomains/lists/adguard-13-justdomains.txt) |
-| Pi-Hole | [adguard-13-justdomains.txt](https://tamersaadeh.github.io/dnsbl-justdomains/lists/adguard-13-justdomains.txt) |
+| Raw Domain List | [adguard-13-justdomains.txt](https://tamersaadeh.github.io/dnsbl-ci/lists/adguard-13-justdomains.txt) |
+| Pi-Hole | [adguard-13-justdomains.txt](https://tamersaadeh.github.io/dnsbl-ci/lists/adguard-13-justdomains.txt) |
 
 **Source:** [https://filters.adtidy.org/extension/chromium/filters/13.txt](https://filters.adtidy.org/extension/chromium/filters/13.txt)
 - Title: AdGuard Turkish filter
@@ -760,8 +760,8 @@ Domain-only Rules Output: 284
 ## AdGuard Mobile ads filter (Domains-only)
 | Format | Raw Download Link |
 | --- | --- |
-| Raw Domain List | [adguard-11-justdomains.txt](https://tamersaadeh.github.io/dnsbl-justdomains/lists/adguard-11-justdomains.txt) |
-| Pi-Hole | [adguard-11-justdomains.txt](https://tamersaadeh.github.io/dnsbl-justdomains/lists/adguard-11-justdomains.txt) |
+| Raw Domain List | [adguard-11-justdomains.txt](https://tamersaadeh.github.io/dnsbl-ci/lists/adguard-11-justdomains.txt) |
+| Pi-Hole | [adguard-11-justdomains.txt](https://tamersaadeh.github.io/dnsbl-ci/lists/adguard-11-justdomains.txt) |
 
 **Source:** [https://filters.adtidy.org/extension/chromium/filters/11.txt](https://filters.adtidy.org/extension/chromium/filters/11.txt)
 - Title: AdGuard Mobile Ads filter
@@ -784,24 +784,24 @@ Domain-only Rules Output: 979
 ## AdGuard Simplified Domain Names Filter (Domains-only)
 | Format | Raw Download Link |
 | --- | --- |
-| Raw Domain List | [adguard-15-justdomains.txt](https://tamersaadeh.github.io/dnsbl-justdomains/lists/adguard-15-justdomains.txt) |
-| Pi-Hole | [adguard-15-justdomains.txt](https://tamersaadeh.github.io/dnsbl-justdomains/lists/adguard-15-justdomains.txt) |
+| Raw Domain List | [adguard-15-justdomains.txt](https://tamersaadeh.github.io/dnsbl-ci/lists/adguard-15-justdomains.txt) |
+| Pi-Hole | [adguard-15-justdomains.txt](https://tamersaadeh.github.io/dnsbl-ci/lists/adguard-15-justdomains.txt) |
 
 **Source:** [https://filters.adtidy.org/extension/chromium/filters/15.txt](https://filters.adtidy.org/extension/chromium/filters/15.txt)
 - Title: AdGuard Simplified domain names filter
-- Version: 2.0.9.35
-- Last Modified: 2020-04-20T14:03:47.020Z
+- Version: 2.0.9.36
+- Last Modified: 2020-04-20T17:08:58.800Z
 - Homepage: [https://github.com/AdguardTeam/AdguardSDNSFilter](https://github.com/AdguardTeam/AdguardSDNSFilter)
 
 **Conversion Details:**
 ```
-Total Lines Processed: 31880
-Comment Lines: 419
+Total Lines Processed: 36932
+Comment Lines: 407
 Empty Lines: 0
-Non-Domain-only Rules Excluded: 398
+Non-Domain-only Rules Excluded: 557
 Domain-only Rules Excluded (unsupported options): 5
-Domain-only Rules Excluded (exception conflict): 23
-Domain-only Rules Output: 31035
+Domain-only Rules Excluded (exception conflict): 24
+Domain-only Rules Output: 35939
 ```
 
 &nbsp;
@@ -809,8 +809,8 @@ Domain-only Rules Output: 31035
 ## NoCoin Filter List (Domains-only)
 | Format | Raw Download Link |
 | --- | --- |
-| Raw Domain List | [nocoin-justdomains.txt](https://tamersaadeh.github.io/dnsbl-justdomains/lists/nocoin-justdomains.txt) |
-| Pi-Hole | [nocoin-justdomains.txt](https://tamersaadeh.github.io/dnsbl-justdomains/lists/nocoin-justdomains.txt) |
+| Raw Domain List | [nocoin-justdomains.txt](https://tamersaadeh.github.io/dnsbl-ci/lists/nocoin-justdomains.txt) |
+| Pi-Hole | [nocoin-justdomains.txt](https://tamersaadeh.github.io/dnsbl-ci/lists/nocoin-justdomains.txt) |
 
 **Source:** [https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt](https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt)
 - Last Modified: 18 Mar 2020
