@@ -1,23 +1,23 @@
-# For the blocklists, visit: [justdomains/blocklists](https://github.com/justdomains/blocklists)
+# For the blocklists, visit: [jtamersaadeh/dnsbl-justdomains](https://github.com/tamersaadeh/dnsbl-justdomains)
 
 -----
 
-# justdomains/ci [![Build Status](https://travis-ci.org/justdomains/ci.svg?branch=master)](https://travis-ci.org/justdomains/ci)
+# tamersaadeh/dnsbl-ci [![Build Status](https://travis-ci.org/tamersaadeh/dnsbl-ci.svg?branch=master)](https://travis-ci.org/tamersaadeh/dnsbl-ci)
 
 Automated scripts to support converting filter lists (in various formats) to "domain-only" lists for use in DNS / domain-blocking tools like Pi-Hole.
 
 # For normal users:
-### Constantly-updated blocklists are [available here](https://github.com/justdomains/blocklists).
+### Constantly-updated blocklists are [available here](https://github.com/tamersaadeh/dnsbl-justdomains).
 You do not need to run these scripts yourself if you just want the resulting blocklists. The link above has the automatically-updated output of this script for many common / popular lists.
 
-If you have a blocklist you'd like added, [open a new issue here](https://github.com/justdomains/ci/issues).
+If you have a blocklist you'd like added, [open a new issue here](https://github.com/tamersaadeh/dnsbl-ci/issues).
 
 # For advanced users:
 
 If you'd like to run these scripts yourself, you can clone this git repository or download the following 3 files:
 - [**convertlists.py**](#convertlistspy)
 - [**lists.json**](#listsjson)
-- buildrepo.py _(optional, used to build the list-hosting repo you see at: [justdomains/blocklists](https://github.com/justdomains/blocklists))_
+- buildrepo.py _(optional, used to build the list-hosting repo you see at: [tamersaadeh/dnsbl-justdomains](https://github.com/tamersaadeh/dnsbl-justdomains))_
 
 ### Requirements:
 - Python 3.3+

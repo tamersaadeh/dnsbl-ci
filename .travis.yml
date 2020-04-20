@@ -13,11 +13,11 @@ script:
 deploy:
   - provider: pages:git
     edge: true # needed until dpl v2 is released
-    repo: tamersaadeh/dnsbl-justdomains
+    #repo: tamersaadeh/dnsbl-justdomains
     commit_message: Updated lists as of $(date +%Y-%m-%d)
     name: JustDomains CI
     email: justdomains-ci
-    target_branch: master
+    #target_branch: master
     local_dir: $HOME/ci/built/
     verbose: true
     on:
