@@ -41,7 +41,7 @@
 	},
 	{
 		"name": "EasyList Germany",
-		"url": "https://easylist-downloads.adblockplus.org/easylistitaly.txt",
+		"url": "https://easylist.to/easylistgermany/easylistgermany.txt",
 		"format": "adbp",
 		"moreinformation": "https://easylist.to/",
 		"description": "EasyList Germany is a filter list written by the EasyList authors MonztA, Famlam and Khrin that specifically removes adverts on German language websites.",
@@ -50,7 +50,7 @@
 	},
 	{
 		"name": "EasyList Italy",
-		"url": "https://easylist.to/easylistgermany/easylistitaly.txt",
+		"url": "https://easylist-downloads.adblockplus.org/easylistitaly.txt",
 		"format": "adbp",
 		"moreinformation": "https://easylist.to/",
 		"description": "EasyList Italy is a filter list written by the EasyList author Khrin that specifically removes adverts on Italian language websites.",
