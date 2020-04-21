@@ -6,9 +6,10 @@ python:
 
 cache: pip
 
-script: 
+script:
   - python ./convertlists.py lists.json $HOME/ci/converted/ -vv
   - python ./buildrepo.py $HOME/ci/converted/ $HOME/ci/built/doc/ --downloadbaseurl https://tamersaadeh.github.io/dnsbl-ci/ -vv
+  - rm -rf $HOME/ci/converted/
 
 deploy:
   - provider: pages:git
@@ -16,7 +17,7 @@ deploy:
     commit_message: Updated lists as of $(date +%Y-%m-%d)
     name: JustDomains CI
     email: justdomains-ci
-    local_dir: $HOME/ci/built/
+    #local_dir: $HOME/ci/built/
     verbose: true
     on:
       branch: master
