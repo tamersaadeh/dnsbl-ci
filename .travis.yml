@@ -8,15 +8,15 @@ cache: pip
 
 script:
   - python ./convertlists.py lists.json $HOME/ci/converted/ -vv
-  - python ./buildrepo.py $HOME/ci/converted/ $HOME/ci/built/doc/ --downloadbaseurl https://tamersaadeh.github.io/dnsbl-ci/ -vv
-  - rm -rf $HOME/ci/converted/
+  - python ./buildrepo.py $HOME/ci/converted/ docs/ --downloadbaseurl https://tamersaadeh.github.io/dnsbl-ci/ -vv
+  - rm -rf $HOME/ci/converted/ originals/
 
 deploy:
   - provider: pages:git
     edge: true # needed until dpl v2 is released
     commit_message: Updated lists as of $(date +%Y-%m-%d)
-    name: JustDomains CI
-    email: justdomains-ci
+    name: Deployment Bot
+    email: deploy@travis-ci.org
     #local_dir: $HOME/ci/built/
     verbose: true
     on:
