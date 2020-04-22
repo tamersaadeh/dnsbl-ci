@@ -1,5 +1,5 @@
 # DOMAIN-ONLY Filter Lists
-**Last Updated:** 2020-04-22 17:32
+**Last Updated:** 2020-04-22 17:33
 
 - [Details](#details)
 - [Usage](#usage)
@@ -98,25 +98,25 @@ The converted lists are provided in a "Raw Domain List" format that contains onl
 | Converted List | License | Domains | Domain List | Last Updated |
 :- | - | - | :-: | - |
 
-| [EasyList](https://easylist.to/easylist/easylist.txt) | [GPL3 / CC BY-SA 3.0](https://easylist.to/pages/licence.html) | 17460 | [**Download**](https://tamersaadeh.github.io/dnsbl-ci//easylist-justdomains.txt) | 22 Apr 2020 17:00 UTC |
+| [EasyList](https://easylist.to/easylist/easylist.txt) | [GPL3 / CC BY-SA 3.0](https://easylist.to/pages/licence.html) | 17460 | [**Download**](https://tamersaadeh.github.io/dnsbl-ci//easylist-justdomains.txt) | 22 Apr 2020 17:28 UTC |
 
-| [EasyPrivacy](https://easylist.to/easylist/easyprivacy.txt) | [GPL3 / CC BY-SA 3.0](https://easylist.to/pages/licence.html) | 6732 | [**Download**](https://tamersaadeh.github.io/dnsbl-ci//easyprivacy-justdomains.txt) | 22 Apr 2020 17:28 UTC |
+| [EasyPrivacy](https://easylist.to/easylist/easyprivacy.txt) | [GPL3 / CC BY-SA 3.0](https://easylist.to/pages/licence.html) | 6732 | [**Download**](https://tamersaadeh.github.io/dnsbl-ci//easyprivacy-justdomains.txt) | 22 Apr 2020 17:00 UTC |
 
-| [EasyList Cookie](https://easylist-downloads.adblockplus.org/easylist-cookie.txt) | [CC BY 3.0](http://creativecommons.org/licenses/by/3.0/) | 85 | [**Download**](https://tamersaadeh.github.io/dnsbl-ci//easylist-cookie-justdomains.txt) | 22 Apr 2020 17:20 UTC |
+| [EasyList Cookie](https://easylist-downloads.adblockplus.org/easylist-cookie.txt) | [CC BY 3.0](http://creativecommons.org/licenses/by/3.0/) | 85 | [**Download**](https://tamersaadeh.github.io/dnsbl-ci//easylist-cookie-justdomains.txt) | 22 Apr 2020 17:31 UTC |
 
-| [Fanboy's Social Blocking](https://easylist.to/easylist/fanboy-social.txt) | [CC BY 3.0](http://creativecommons.org/licenses/by/3.0/) | 108 | [**Download**](https://tamersaadeh.github.io/dnsbl-ci//fanboy-social-justdomains.txt) | 22 Apr 2020 17:00 UTC |
+| [Fanboy's Social Blocking](https://easylist.to/easylist/fanboy-social.txt) | [CC BY 3.0](http://creativecommons.org/licenses/by/3.0/) | 108 | [**Download**](https://tamersaadeh.github.io/dnsbl-ci//fanboy-social-justdomains.txt) | 22 Apr 2020 17:28 UTC |
 
 | [Fanboy's Social Blocking](https://easylist.to/easylist/fanboy-annoyance.txt) | [CC BY 3.0](http://creativecommons.org/licenses/by/3.0/) | 692 | [**Download**](https://tamersaadeh.github.io/dnsbl-ci//fanboy-annoyance-justdomains.txt) | 22 Apr 2020 17:28 UTC |
 
 | [EasyList Germany](https://easylist.to/easylistgermany/easylistgermany.txt) | [GPL3 / CC BY-SA 3.0](https://easylist.to/pages/licence.html) | 564 | [**Download**](https://tamersaadeh.github.io/dnsbl-ci//easylistgermany-justdomains.txt) | %timestamp% |
 
-| [EasyList Italy](https://easylist-downloads.adblockplus.org/easylistitaly.txt) | [GPL3 / CC BY-SA 3.0](None) | 194 | [**Download**](https://tamersaadeh.github.io/dnsbl-ci//easylistitaly-justdomains.txt) | 22 Apr 2020 17:21 UTC |
+| [EasyList Italy](https://easylist-downloads.adblockplus.org/easylistitaly.txt) | [GPL3 / CC BY-SA 3.0](None) | 194 | [**Download**](https://tamersaadeh.github.io/dnsbl-ci//easylistitaly-justdomains.txt) | 22 Apr 2020 17:31 UTC |
 
-| [EasyList Dutch](https://easylist-downloads.adblockplus.org/easylistdutch.txt) | [GPL3 / CC BY-SA 3.0](https://easylist-downloads.adblockplus.org/COPYING) | 79 | [**Download**](https://tamersaadeh.github.io/dnsbl-ci//easylistdutch-justdomains.txt) | 22 Apr 2020 17:13 UTC |
+| [EasyList Dutch](https://easylist-downloads.adblockplus.org/easylistdutch.txt) | [GPL3 / CC BY-SA 3.0](https://easylist-downloads.adblockplus.org/COPYING) | 79 | [**Download**](https://tamersaadeh.github.io/dnsbl-ci//easylistdutch-justdomains.txt) | 22 Apr 2020 17:23 UTC |
 
 | [EasyList Liste FR](https://easylist-downloads.adblockplus.org/liste_fr.txt) | [CC BY-NC-SA 3.0](None) | 4920 | [**Download**](https://tamersaadeh.github.io/dnsbl-ci//liste_fr-justdomains.txt) | None |
 
-| [EasyList China](https://easylist-downloads.adblockplus.org/easylistchina.txt) | [GPL3 / CC BY-SA 3.0](https://easylist-downloads.adblockplus.org/COPYING) | 5666 | [**Download**](https://tamersaadeh.github.io/dnsbl-ci//easylistchina-justdomains.txt) | 22 Apr 2020 17:13 UTC |
+| [EasyList China](https://easylist-downloads.adblockplus.org/easylistchina.txt) | [GPL3 / CC BY-SA 3.0](https://easylist-downloads.adblockplus.org/COPYING) | 5666 | [**Download**](https://tamersaadeh.github.io/dnsbl-ci//easylistchina-justdomains.txt) | 22 Apr 2020 17:23 UTC |
 
 | [EasyList ABPindo](https://raw.githubusercontent.com/heradhis/indonesianadblockrules/master/subscriptions/abpindo.txt) | [GPL3 / CC BY-SA 3.0](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE) | 523 | [**Download**](https://tamersaadeh.github.io/dnsbl-ci//abpindo-justdomains.txt) | 17 Apr 2020 02:13 UTC |
 
@@ -168,8 +168,8 @@ The converted lists are provided in a "Raw Domain List" format that contains onl
 
 **Source:** [easylist.txt](https://easylist.to/easylist/easylist.txt)
 - Title: EasyList
-- Version: 202004221700
-- Last Modified: 22 Apr 2020 17:00 UTC
+- Version: 202004221728
+- Last Modified: 22 Apr 2020 17:28 UTC
 - Homepage: [https://easylist.to/](https://easylist.to/)
 
 **Conversion Details:**
@@ -205,8 +205,8 @@ Domain-only Rules Output
 
 **Source:** [easyprivacy.txt](https://easylist.to/easylist/easyprivacy.txt)
 - Title: EasyPrivacy
-- Version: 202004221728
-- Last Modified: 22 Apr 2020 17:28 UTC
+- Version: 202004221700
+- Last Modified: 22 Apr 2020 17:00 UTC
 - Homepage: [https://easylist.to/](https://easylist.to/)
 
 **Conversion Details:**
@@ -242,8 +242,8 @@ Domain-only Rules Output
 
 **Source:** [easylist-cookie.txt](https://easylist-downloads.adblockplus.org/easylist-cookie.txt)
 - Title: EasyList Cookie
-- Version: 202004221720
-- Last Modified: 22 Apr 2020 17:20 UTC
+- Version: 202004221731
+- Last Modified: 22 Apr 2020 17:31 UTC
 - Homepage: [https://easylist.to/](https://easylist.to/)
 
 **Conversion Details:**
@@ -279,8 +279,8 @@ Domain-only Rules Output
 
 **Source:** [fanboy-social.txt](https://easylist.to/easylist/fanboy-social.txt)
 - Title: Fanboy's Social Blocking
-- Version: 202004221700
-- Last Modified: 22 Apr 2020 17:00 UTC
+- Version: 202004221728
+- Last Modified: 22 Apr 2020 17:28 UTC
 - Homepage: [https://easylist.to/](https://easylist.to/)
 
 **Conversion Details:**
@@ -390,8 +390,8 @@ Domain-only Rules Output
 
 **Source:** [easylistitaly.txt](https://easylist-downloads.adblockplus.org/easylistitaly.txt)
 - Title: EasyList Italy
-- Version: 202004221721
-- Last Modified: 22 Apr 2020 17:21 UTC
+- Version: 202004221731
+- Last Modified: 22 Apr 2020 17:31 UTC
 - Homepage: [https://easylist.to/](https://easylist.to/)
 
 **Conversion Details:**
@@ -427,8 +427,8 @@ Domain-only Rules Output
 
 **Source:** [easylistdutch.txt](https://easylist-downloads.adblockplus.org/easylistdutch.txt)
 - Title: EasyList Dutch
-- Version: 202004221713
-- Last Modified: 22 Apr 2020 17:13 UTC
+- Version: 202004221723
+- Last Modified: 22 Apr 2020 17:23 UTC
 - Homepage: [https://easylist.adblockplus.org/](https://easylist.adblockplus.org/)
 
 **Conversion Details:**
@@ -464,7 +464,7 @@ Domain-only Rules Output
 
 **Source:** [liste_fr.txt](https://easylist-downloads.adblockplus.org/liste_fr.txt)
 - Title: EasyList Liste FR
-- Version: 202004221713
+- Version: 202004221723
 - Last Modified: None
 - Homepage: [https://forums.lanik.us/viewforum.php?f=91](https://forums.lanik.us/viewforum.php?f=91)
 
@@ -501,8 +501,8 @@ Domain-only Rules Output
 
 **Source:** [easylistchina.txt](https://easylist-downloads.adblockplus.org/easylistchina.txt)
 - Title: EasyList China
-- Version: 202004221713
-- Last Modified: 22 Apr 2020 17:13 UTC
+- Version: 202004221723
+- Last Modified: 22 Apr 2020 17:23 UTC
 - Homepage: [http://abpchina.org/forum/](http://abpchina.org/forum/)
 
 **Conversion Details:**
@@ -760,17 +760,17 @@ Domain-only Rules Output
 
 **Source:** [2.txt](https://filters.adtidy.org/extension/chromium/filters/2.txt)
 - Title: AdGuard Base Filter
-- Version: 2.1.16.0
+- Version: 2.1.16.1
 - Last Modified: None
 - Homepage: [http://adguard.com/filters.html#english](http://adguard.com/filters.html#english)
 
 **Conversion Details:**
 ```
 Total Lines Processed
-103925
+103922
 
 Comment Lines
-9727
+9726
 
 Empty Lines
 0
@@ -779,7 +779,7 @@ Non-Domain-only Rules Excluded
 71434
 
 Domain-only Rules Excluded (unsupported options)
-2236
+2234
 
 Domain-only Rules Excluded (exception conflict)
 218
@@ -834,7 +834,7 @@ Domain-only Rules Output
 
 **Source:** [4.txt](https://filters.adtidy.org/extension/chromium/filters/4.txt)
 - Title: AdGuard Social media filter
-- Version: 2.0.24.46
+- Version: 2.0.24.47
 - Last Modified: None
 - Homepage: [http://adguard.com/filters.html#social](http://adguard.com/filters.html#social)
 
@@ -871,14 +871,14 @@ Domain-only Rules Output
 
 **Source:** [14.txt](https://filters.adtidy.org/extension/chromium/filters/14.txt)
 - Title: AdGuard Annoyances filter
-- Version: 2.0.46.50
+- Version: 2.0.46.51
 - Last Modified: None
 - Homepage: [http://adguard.com/filters.html#annoyances](http://adguard.com/filters.html#annoyances)
 
 **Conversion Details:**
 ```
 Total Lines Processed
-17235
+17237
 
 Comment Lines
 2274
@@ -887,7 +887,7 @@ Empty Lines
 0
 
 Non-Domain-only Rules Excluded
-14526
+14528
 
 Domain-only Rules Excluded (unsupported options)
 55
@@ -1130,23 +1130,23 @@ Domain-only Rules Output
 
 **Source:** [13.txt](https://filters.adtidy.org/extension/chromium/filters/13.txt)
 - Title: AdGuard Turkish filter
-- Version: 2.0.15.75
+- Version: 2.0.15.76
 - Last Modified: None
 - Homepage: [http://adguard.com/filters.html#turkish](http://adguard.com/filters.html#turkish)
 
 **Conversion Details:**
 ```
 Total Lines Processed
-6023
+6029
 
 Comment Lines
-607
+609
 
 Empty Lines
 0
 
 Non-Domain-only Rules Excluded
-5090
+5094
 
 Domain-only Rules Excluded (unsupported options)
 39
@@ -1167,14 +1167,14 @@ Domain-only Rules Output
 
 **Source:** [11.txt](https://filters.adtidy.org/extension/chromium/filters/11.txt)
 - Title: AdGuard Mobile ads filter
-- Version: 2.0.12.17
+- Version: 2.0.12.18
 - Last Modified: None
 - Homepage: [http://adguard.com/filters.html#mobile](http://adguard.com/filters.html#mobile)
 
 **Conversion Details:**
 ```
 Total Lines Processed
-3744
+3746
 
 Comment Lines
 767
@@ -1183,7 +1183,7 @@ Empty Lines
 0
 
 Non-Domain-only Rules Excluded
-1963
+1965
 
 Domain-only Rules Excluded (unsupported options)
 20
