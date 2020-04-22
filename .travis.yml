@@ -7,9 +7,8 @@ python:
 cache: pip
 
 script:
-  - python ./convertlists.py lists.json $HOME/ci/converted/ -vv
-  - python ./buildrepo.py $HOME/ci/converted/ docs/ --downloadbaseurl https://tamersaadeh.github.io/dnsbl-ci/ -vv
-  - rm -rf $HOME/ci/converted/ originals/
+  - python ./src/convertlists.py lists.json $HOME/ci/converted/ -d $HOME/ci/originals/ -vv
+  - python ./src/buildrepo.py $HOME/ci/converted/ docs/ --base-url https://tamersaadeh.github.io/dnsbl-ci/ -vv
 
 deploy:
   - provider: pages:git
@@ -17,7 +16,7 @@ deploy:
     commit_message: Updated lists as of $(date +%Y-%m-%d)
     name: Deployment Bot
     email: deploy@travis-ci.org
-    #local_dir: $HOME/ci/built/
+    #target_branch: master
     verbose: true
     on:
       branch: master

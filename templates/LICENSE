@@ -1,0 +1,6 @@
+All converted / modified list files are licensed under the same license as the original list.
+
+{% for item in lists %}
+[{{ item.base_output_filename }}]
+	License: {{ item.header.get('license') }}
+{% endfor %}
